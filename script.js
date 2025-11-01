@@ -27,11 +27,13 @@ document.getElementById('year').textContent = new Date().getFullYear();
 // ⌨️ Typewriter Animation
 // =======================
 const phrases = [
-  'useful things with code',
-  'Arduino prototypes that blink & think',
-  'ML models that explain themselves',
-  'web apps that feel fast',
-  'data stories that matter'
+  'Co-Founder and Co-Ceo of CodeUnity',
+  'Founder of CampQuest',
+  'building useful things with code',
+  'building Arduino prototypes that blink & think',
+  'building ML models that explain themselves',
+  'building web apps that feel fast',
+  'building data stories that matter'
 ];
 
 let idx = 0, ptr = 0, rev = false;
