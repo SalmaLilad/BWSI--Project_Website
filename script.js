@@ -29,11 +29,9 @@ document.getElementById('year').textContent = new Date().getFullYear();
 const phrases = [
   'Co-Founder and Co-Ceo of CodeUnity',
   'Founder of CampQuest',
-  'building useful things with code',
-  'building Arduino prototypes that blink & think',
-  'building ML models that explain themselves',
-  'building web apps that feel fast',
-  'building data stories that matter'
+  'AI Innovator and Computer Programmer',
+  'AI Curious & Literate',
+  'Web Developer and ML Experimenter'
 ];
 
 let idx = 0, ptr = 0, rev = false;
